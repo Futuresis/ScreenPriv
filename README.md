@@ -1,6 +1,8 @@
 ## GUI Agent Privacy Detection VLM Tool
 
-This project is a small utility script that calls a Vision-Language Model (VLM) to detect privacy-related information on desktop / app screenshots and export both annotated images and a JSON label file.
+This project is a lightweight utility script that leverages a Vision-Language Model (VLM) to detect privacy-related information **specifically in screenshots captured during the execution of GUI (Graphical User Interface) agents**, and it exports both annotated images and a JSON label file as the output.
+
+**A GUI Agent (Graphical User Interface Agent)** is an artificial intelligence agent based on Visual Language Models (VLMs) that perceives its environment exclusively through graphical user interfaces (e.g., screen screenshots) and simulates human operations to complete cross-platform tasks.
 
 > For a Simplified Chinese version of this document, see: **[README_zh.md](README_zh.md)**.
 
