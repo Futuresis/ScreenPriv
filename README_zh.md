@@ -2,7 +2,7 @@
 
 本项目是一款轻量级实用脚本，其利用视觉语言模型（VLM），专门检测 GUI（图形用户界面）智能体执行过程中捕获的截图中的隐私相关信息，并输出标注图像和 JSON 标签文件两类结果。
 
-**GUI 智能体（Graphical User Interface Agent）**是一种基于视觉语言模型（VLM）的智能体，它仅通过图形用户界面（例如屏幕截图）感知环境，并模拟人类操作完成跨平台任务。
+GUI 智能体（Graphical User Interface Agent）是一种基于视觉语言模型（VLM）的智能体，它仅通过图形用户界面（例如屏幕截图）感知环境，并模拟人类操作完成跨平台任务。
 
 > English version: see **[README.md](README.md)**.
 
